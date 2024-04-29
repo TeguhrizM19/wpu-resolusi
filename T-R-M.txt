@@ -1,1 +1,7 @@
-Hello Word
+RENCANA PROJECT
+- Bahasa Pemrograman PHP
+  * Memakai Framework Laravel
+- Membuat Create, Read, Update, Delete
+- Menambahkan JavaScript
+  * Memakai Framework JavaScript
+  * React
